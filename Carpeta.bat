@@ -1,0 +1,2 @@
+cd/desktop
+mkdir Hiromirt
